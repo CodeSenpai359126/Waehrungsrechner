@@ -1,5 +1,5 @@
 # Waehrungsrechner
-Ein Wiondows Forms Währungsrechner
+Ein Windows Forms Währungsrechner
 
 Regeln/Rules:
 - Gib das Repository oder den Code darin nicht als deinen eigennen aus. 
